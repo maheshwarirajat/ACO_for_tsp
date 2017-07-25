@@ -9,4 +9,5 @@ https://bitchuckie.wordpress.com/2017/07/23/basics-of-swarm-intelligence-its-all
 But if you're familiar with python you can understand the code 
 
 # How to run
-Add all the .m files in matlab and run
+Add all the .m files in matlab and run  
+You can also change the parameters to play with the exploration-exploitation tradeoff, or in simple terms solution quality and time
